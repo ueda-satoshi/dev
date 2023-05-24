@@ -1,5 +1,13 @@
 {
 	"name": "kansai-adf-ueda-dev",
+	"properties": {
+		"globalParameters": {
+			"date": {
+				"type": "string",
+				"value": "20230508"
+			}
+		}
+	},
 	"location": "japanwest",
 	"identity": {
 		"type": "SystemAssigned",
