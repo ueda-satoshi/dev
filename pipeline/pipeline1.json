@@ -66,6 +66,12 @@
 				]
 			}
 		],
+		"parameters": {
+			"test": {
+				"type": "string",
+				"defaultValue": "abc"
+			}
+		},
 		"annotations": []
 	}
 }
